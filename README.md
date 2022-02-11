@@ -1,6 +1,6 @@
 #安装
 ```
-composer require xsxs89757/flysystem-oss
+composer require qifen/flysystem-oss
 ```
 #感谢
 ```
@@ -10,7 +10,7 @@ composer require xsxs89757/flysystem-oss
 
 ```
 use League\Flysystem\Filesystem;
-use Xsxs89757\FilesystemOss\OssAdapter;
+use Qifen\FilesystemOss\OssAdapter;
 
 $aliyun = new OssAdapter([
     'accessId'       => '<aliyun access id>',
