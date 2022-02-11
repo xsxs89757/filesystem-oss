@@ -1,5 +1,5 @@
 {
-  "name": "qifen/filesystem-oss",
+  "name": "qifen/flysystem-oss",
   "description": "AliYun OSS adapter for flysystem V2. aliyuncs/oss-sdk-php ~2.4",
   "homepage": "https://github.com/xsxs89757/filesystem-oss",
   "keywords": ["flysystem-aliyun-oss", "aliyun-oss", "flysystem"],
