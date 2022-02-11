@@ -1,7 +1,7 @@
 {
-  "name": "phcent/filesystem-oss",
+  "name": "qifen/filesystem-oss",
   "description": "AliYun OSS adapter for flysystem V2. aliyuncs/oss-sdk-php ~2.4",
-  "homepage": "https://github.com/phcent/filesystem-oss",
+  "homepage": "https://github.com/xsxs89757/filesystem-oss",
   "keywords": ["flysystem-aliyun-oss", "aliyun-oss", "flysystem"],
   "type": "library",
   "require": {
@@ -12,7 +12,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Phcent\\FilesystemOss\\": "src/"
+      "Qifen\\FilesystemOss\\": "src/"
     }
   },
   "extra": {
@@ -23,8 +23,8 @@
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "Uncle Song",
-      "email": "8988354@qq.com"
+      "name": "lei.wang",
+      "email": "31748423@qq.com"
     }
   ]
 }
